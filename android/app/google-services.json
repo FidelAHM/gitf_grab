@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "955072082839",
+    "project_id": "gift-grab-27141",
+    "storage_bucket": "gift-grab-27141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955072082839:android:11eb225b75891a2b940ad2",
+        "android_client_info": {
+          "package_name": "com.io.gift_grab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955072082839-06r8l1rbbl85g31j6upge0jhsuqh2qrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9bJGpGfenXPInabbG_QZHWdYn2wmAQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955072082839-06r8l1rbbl85g31j6upge0jhsuqh2qrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955072082839-oo9gainsq9d4scss7kjuttqt5u54vshj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.giftGrab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

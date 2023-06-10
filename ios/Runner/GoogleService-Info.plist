@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>955072082839-oo9gainsq9d4scss7kjuttqt5u54vshj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.955072082839-oo9gainsq9d4scss7kjuttqt5u54vshj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9OZq9fNRoq0BR3ohDRRX7lxvDs9Vql6I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>955072082839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.giftGrab</string>
+	<key>PROJECT_ID</key>
+	<string>gift-grab-27141</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gift-grab-27141.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:955072082839:ios:3c4156762265787a940ad2</string>
+</dict>
+</plist>
